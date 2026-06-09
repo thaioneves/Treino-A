@@ -6,10 +6,10 @@ const professor = {
     escola: 'Senac',
 }
 
-console.log(
-    "Nome:" + professor.nome + "/n" +
-    "Idade:" + professor.idade + "anos /n" +
-    "Telefone:" + professor.telefone + "/n" +
-    "Disciplina:" + professor.desciplina + "/n" +
-    "Escola:" + professor.escola + "/n" +
-)
+console.log[
+    "Nome:" + professor.nome + "\n" +
+    "Idade:" + professor.idade + "anos \n" +
+    "Telefone:" + professor.telefone + "\n" +
+    "Disciplina:" + professor.desciplina + "\n" +
+    "Escola:" + professor.escola + "\n" 
+]
